@@ -1,2 +1,1 @@
-# Slingo
-Slingo, Perform different actions on Sui's Blockchain all with thetap of a URL
+Share metadata-rich URLs that enable users to perform various blockchain transactions directly from any platform capable of displaying a URL, such as websites or social media platforms.Buying, voting , staking , betting all made easy with the tap of a link, all executed seamlessly on Sui's blockchain.
